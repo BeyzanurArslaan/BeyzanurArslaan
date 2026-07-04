@@ -156,3 +156,9 @@ I'm always interested in learning new technologies, contributing to open-source 
 Feel free to explore my repositories and connect with me!
 
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/BeyzanurArslaan/BeyzanurArslaan/output/github-contribution-grid-snake.svg"/>
+</p>
