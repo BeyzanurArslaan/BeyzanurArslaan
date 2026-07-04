@@ -149,9 +149,8 @@ Interactive dashboards and exploratory data analysis.
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BeyzanurArslaan&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzanurArslaan&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BeyzanurArslaan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzanurArslaan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
