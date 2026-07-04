@@ -160,5 +160,5 @@ Feel free to explore my repositories and connect with me!
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BeyzanurArslaan/BeyzanurArslaan/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/BeyzanurArslaan/BeyzanurArslaan/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </p>
