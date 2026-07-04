@@ -24,36 +24,66 @@ I enjoy designing scalable software systems, implementing software design princi
 
 # 🚀 Featured Projects
 
-### ☕ Coffee Ordering System Using Design Patterns
-Implementation of multiple GoF Design Patterns and SOLID principles in Java.
+### ☕ Coffee Ordering System
+> Java • Design Patterns • SOLID
 
-### 🔍 Checkstyle Code Smells Refactoring
-Detection and refactoring of code smells using Ptidej.
+Implementation of GoF Design Patterns and object-oriented software design principles.
 
-### 📊 Technical Debt Analysis Using SonarQube
-Software quality assessment and technical debt analysis of the Checkstyle project.
+---
 
-### 🏛 Software Architecture Projects
-Architectural analysis and refactoring using Checkstyle and Hexagonal Architecture.
+### 🖥️ xv6 Operating System
+> C • Operating Systems
 
-### 🖥️ xv6 Operating System Projects
-Kernel development including scheduling, threads, virtual memory, process management and system calls.
+Kernel development including scheduling, virtual memory, threads and system calls.
 
-### 🤖 Ranking Algorithms in Recommendation Systems
-Literature review and SASRec implementation for sequential recommendation systems.
+---
 
-### 🗄️ Hotel Management System Database Design
-Relational database design and transaction management using PostgreSQL.
+### 🧠 Cybersecurity ML Suite
+> Python • Machine Learning
 
-### 🧠 Cybersecurity IoT Machine Learning Suite
-Machine learning models for intrusion detection, clustering, regression and association rule mining.
+Intrusion detection, clustering, regression and association rule mining models.
 
-### 📈 Data Visualization Marketplace
-Interactive dashboards and exploratory data analysis using Python and KNIME.
+---
 
-### 🖼️ Image Denoising Using U-Net
-Deep learning-based image denoising using a custom U-Net architecture implemented with PyTorch.
+### 🖼️ Image Denoising using U-Net
+> PyTorch • Deep Learning
 
+Image restoration using a custom U-Net architecture.
+
+---
+
+### 📊 Technical Debt Analysis
+> SonarQube • Software Quality
+
+Technical debt measurement and static analysis of the Checkstyle project.
+
+---
+
+### 🏛 Software Architecture
+> Hexagonal Architecture • Refactoring
+
+Architectural analysis and software evolution projects.
+
+---
+
+### 🤖 Recommendation Systems
+> SASRec • Deep Learning
+
+Sequential recommendation system implementation and literature review.
+
+---
+
+### 🗄️ Hotel Management Database
+> PostgreSQL
+
+Database design, normalization and transaction management.
+
+---
+
+### 📈 Marketplace Analytics
+> Python • KNIME
+
+Interactive dashboards and exploratory data analysis.
 ---
 
 # 💻 Tech Stack
@@ -105,14 +135,6 @@ Deep learning-based image denoising using a custom U-Net architecture implemente
 - Ptidej
 - KNIME
 
----
-
-
-## 🏆 Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BeyzanurArslaan&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
 
 ---
 
