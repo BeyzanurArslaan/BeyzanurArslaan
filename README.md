@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0F6FFF&center=true&vCenter=true&width=750&lines=Hi+there,+I'm+Beyzanur+Arslan+👋;Computer+Engineering+Student;Software+Engineering+Enthusiast;Machine+Learning+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=0F6FFF&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Beyzanur+Arslan+👋;Computer+Engineering+Student;Software+Engineering+Enthusiast;Machine+Learning+Developer;Data+Science+%7C+Software+Architecture;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BeyzanurArslaan&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=BeyzanurArslaan&style=for-the-badge&color=0e75b6"/>
 </p>
 
 <h1 align="center">Hi, I'm Beyzanur Arslan 👋</h1>
 
 <h3 align="center">
-Computer Engineering Student | Software Engineering & Machine Learning Enthusiast
+Computer Engineering Student • Software Engineering • Machine Learning • Data Science
 </h3>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I am a **Computer Engineering student** passionate about **Software Engineering, Machine Learning, Data Science, Operating Systems, and Software Architecture**.
+I am a **Computer Engineering student** passionate about **Software Engineering, Machine Learning, Data Science, Operating Systems, Database Systems, and Software Architecture**.
 
-I enjoy designing scalable software systems, applying software engineering principles, implementing design patterns, developing machine learning solutions, and improving software quality through static analysis, architectural refactoring, and clean code practices.
+I enjoy designing scalable software systems, implementing software design principles, developing machine learning applications, improving software quality through static analysis and architectural refactoring, and building practical engineering projects.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### ☕ Coffee Ordering System Using Design Patterns
 Implementation of multiple GoF Design Patterns and SOLID principles in Java.
@@ -37,7 +37,7 @@ Software quality assessment and technical debt analysis of the Checkstyle projec
 Architectural analysis and refactoring using Checkstyle and Hexagonal Architecture.
 
 ### 🖥️ xv6 Operating System Projects
-Kernel development including scheduling, threads, virtual memory, process management, and system calls.
+Kernel development including scheduling, threads, virtual memory, process management and system calls.
 
 ### 🤖 Ranking Algorithms in Recommendation Systems
 Literature review and SASRec implementation for sequential recommendation systems.
@@ -46,10 +46,10 @@ Literature review and SASRec implementation for sequential recommendation system
 Relational database design and transaction management using PostgreSQL.
 
 ### 🧠 Cybersecurity IoT Machine Learning Suite
-Machine learning models for intrusion detection, clustering, regression, and association rule mining.
+Machine learning models for intrusion detection, clustering, regression and association rule mining.
 
 ### 📈 Data Visualization Marketplace
-Interactive data visualization and exploratory data analysis using Python and KNIME.
+Interactive dashboards and exploratory data analysis using Python and KNIME.
 
 ### 🖼️ Image Denoising Using U-Net
 Deep learning-based image denoising using a custom U-Net architecture implemented with PyTorch.
@@ -60,11 +60,11 @@ Deep learning-based image denoising using a custom U-Net architecture implemente
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,spring,postgres,mysql,docker,linux,git,github,maven,idea,vscode,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,spring,postgres,mysql,docker,linux,git,github,maven,idea,vscode,pytorch,tensorflow"/>
 
 </p>
 
-### Programming Languages
+### Languages
 
 - Java
 - Python
@@ -76,7 +76,7 @@ Deep learning-based image denoising using a custom U-Net architecture implemente
 - Spring Boot
 - TensorFlow
 - PyTorch
-- Scikit-learn
+- Scikit-Learn
 - Pandas
 - NumPy
 
@@ -85,11 +85,12 @@ Deep learning-based image denoising using a custom U-Net architecture implemente
 - PostgreSQL
 - MySQL
 
-### Development
+### Software Engineering
 
 - Object-Oriented Programming (OOP)
 - SOLID Principles
 - GoF Design Patterns
+- Hexagonal Architecture
 - Maven
 
 ### Tools
@@ -106,10 +107,10 @@ Deep learning-based image denoising using a custom U-Net architecture implemente
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BeyzanurArslaan&theme=flat&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BeyzanurArslaan&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -118,15 +119,15 @@ Deep learning-based image denoising using a custom U-Net architecture implemente
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BeyzanurArslaan&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BeyzanurArslaan&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzanurArslaan&layout=compact&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzanurArslaan&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=BeyzanurArslaan&theme=transparent"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyzanurArslaan&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -135,30 +136,45 @@ Deep learning-based image denoising using a custom U-Net architecture implemente
 # 📊 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeyzanurArslaan&theme=github-compact"/>
+
 </p>
 
 ---
 
-# 📫 Connect with Me
+# 🌐 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/beyzanur-arslan-ba18b832a
-- 📧 **Email:** arslanbeyza4444@gmail.com
+<p align="center">
+
+<a href="https://www.linkedin.com/in/beyzanur-arslan-ba18b832a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:arslanbeyza4444@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-I'm always interested in learning new technologies, contributing to open-source projects, and building software that makes a difference.
+I enjoy learning new technologies, contributing to software engineering projects, and building machine learning applications.
 
 Feel free to explore my repositories and connect with me!
 
 </div>
 
-## 🐍 Contribution Snake
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BeyzanurArslaan/BeyzanurArslaan/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+
+<img src="https://raw.githubusercontent.com/BeyzanurArslaan/BeyzanurArslaan/output/github-contribution-grid-snake.svg"/>
+
 </p>
