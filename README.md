@@ -108,30 +108,27 @@ Deep learning-based image denoising using a custom U-Net architecture implemente
 ---
 
 
-## 🎯 Current Focus
+## 🏆 Trophy
 
-- 🌱 Learning Software Architecture
-- 🤖 Machine Learning & Deep Learning
-- ☕ Spring Boot Development
-- 🐧 Operating Systems (xv6)
-- 📊 Data Science & Analytics
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BeyzanurArslaan&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
 
 ---
 
 # 📈 GitHub Statistics
 
 <p align="center">
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=BeyzanurArslaan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BeyzanurArslaan&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzanurArslaan&layout=compact&theme=transparent&hide_border=true"/>
-
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzanurArslaan&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyzanurArslaan&theme=transparent&hide_border=true"/>
-
+<img
+src="https://streak-stats.demolab.com?user=BeyzanurArslaan&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
