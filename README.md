@@ -21,69 +21,115 @@ I am a **Computer Engineering student** passionate about **Software Engineering,
 I enjoy designing scalable software systems, implementing software design principles, developing machine learning applications, improving software quality through static analysis and architectural refactoring, and building practical engineering projects.
 
 ---
-
 # 🚀 Featured Projects
 
-### ☕ Coffee Ordering System
-> Java • Design Patterns • SOLID
+### ☕ Coffee Ordering System Using Design Patterns
+Implementation of multiple GoF Design Patterns and SOLID principles in Java.
 
-Implementation of GoF Design Patterns and object-oriented software design principles.
-
----
-
-### 🖥️ xv6 Operating System
-> C • Operating Systems
-
-Kernel development including scheduling, virtual memory, threads and system calls.
+<p>
+<a href="https://github.com/BeyzanurArslaan/coffee-ordering-system-design-patterns">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 🧠 Cybersecurity ML Suite
-> Python • Machine Learning
+### 🔍 Checkstyle Code Smells Refactoring
+Detection and refactoring of code smells using Ptidej.
 
-Intrusion detection, clustering, regression and association rule mining models.
-
----
-
-### 🖼️ Image Denoising using U-Net
-> PyTorch • Deep Learning
-
-Image restoration using a custom U-Net architecture.
+<p>
+<a href="https://github.com/BeyzanurArslaan/checkstyle-code-smells-refactoring">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 📊 Technical Debt Analysis
-> SonarQube • Software Quality
+### 📊 Technical Debt Analysis Using SonarQube
+Software quality assessment and technical debt analysis.
 
-Technical debt measurement and static analysis of the Checkstyle project.
-
----
-
-### 🏛 Software Architecture
-> Hexagonal Architecture • Refactoring
-
-Architectural analysis and software evolution projects.
+<p>
+<a href="https://github.com/BeyzanurArslaan/technical-debt-analysis-sonarqube">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 🤖 Recommendation Systems
-> SASRec • Deep Learning
+### 🏛 Software Architecture Projects
+Architectural analysis and refactoring using Hexagonal Architecture.
 
-Sequential recommendation system implementation and literature review.
-
----
-
-### 🗄️ Hotel Management Database
-> PostgreSQL
-
-Database design, normalization and transaction management.
+<p>
+<a href="https://github.com/BeyzanurArslaan/software-architecture-projects">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 📈 Marketplace Analytics
-> Python • KNIME
+### 🖥️ xv6 Operating System Projects
+Kernel development including scheduling, virtual memory and system calls.
 
+<p>
+<a href="https://github.com/BeyzanurArslaan/xv6-operating-system-projects">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🤖 Ranking Algorithms in Recommendation Systems
+Sequential recommendation systems with SASRec.
+
+<p>
+<a href="https://github.com/BeyzanurArslaan/ranking-algorithms-recommendation-systems">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🗄️ Hotel Management System Database Design
+Database design and transaction management using PostgreSQL.
+
+<p>
+<a href="https://github.com/BeyzanurArslaan/hotel-management-system-database-design">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🧠 Cybersecurity IoT Machine Learning Suite
+Machine learning models for cybersecurity datasets.
+
+<p>
+<a href="https://github.com/BeyzanurArslaan/cybersecurity-iot-ml-suite">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 📈 Data Visualization Marketplace
 Interactive dashboards and exploratory data analysis.
+
+<p>
+<a href="https://github.com/BeyzanurArslaan/data-visualization-marketplace">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🖼️ Image Denoising Using U-Net
+Deep learning-based image denoising using PyTorch.
+
+<p>
+<a href="https://github.com/BeyzanurArslaan/image-denoising-unet">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 ---
 
 # 💻 Tech Stack
