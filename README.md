@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=0F6FFF&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Beyzanur+Arslan+👋;Computer+Engineering+Student;Software+Engineering+Enthusiast;Machine+Learning+Developer;Data+Science+%7C+Software+Architecture;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0F6FFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Beyzanur+Arslan;Computer+Engineering+Student;Software+Engineering;Machine+Learning;Always+Learning" />
 </p>
 
 <p align="center">
@@ -107,11 +107,14 @@ Deep learning-based image denoising using a custom U-Net architecture implemente
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BeyzanurArslaan&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
+## 🎯 Current Focus
+
+- 🌱 Learning Software Architecture
+- 🤖 Machine Learning & Deep Learning
+- ☕ Spring Boot Development
+- 🐧 Operating Systems (xv6)
+- 📊 Data Science & Analytics
 
 ---
 
