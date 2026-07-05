@@ -203,15 +203,6 @@ Deep learning-based image denoising using PyTorch.
   <img width="70%" src="https://streak-stats.demolab.com?user=BeyzanurArslaan&theme=transparent&hide_border=true" />
 </p>
 
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BeyzanurArslaan&theme=github-compact"/>
-
-</p>
 
 ---
 
