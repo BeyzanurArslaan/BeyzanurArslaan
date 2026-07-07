@@ -190,18 +190,6 @@ Deep learning-based image denoising using PyTorch.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeyzanurArslaan&theme=github-compact&hide_border=true"/>
 </p>
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BeyzanurArslaan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzanurArslaan&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=BeyzanurArslaan&theme=transparent&hide_border=true" />
-</p>
 
 
 ---
