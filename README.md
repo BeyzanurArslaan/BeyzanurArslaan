@@ -16,7 +16,7 @@ Computer Engineering Student • Software Engineering • Machine Learning • D
 
 # 👩‍💻 About Me
 
-I am a **Computer Engineering student** passionate about **Software Engineering, Machine Learning, Data Science, Operating Systems, Database Systems, and Software Architecture**.
+I am a **Software Engineering student** passionate about **Software Engineering, Machine Learning, Data Science, Operating Systems, Database Systems, and Software Architecture**.
 
 I enjoy designing scalable software systems, implementing software design principles, developing machine learning applications, improving software quality through static analysis and architectural refactoring, and building practical engineering projects.
 
