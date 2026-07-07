@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Beyzanur Arslan 👋</h1>
 
 <h3 align="center">
-Computer Engineering Student • Software Engineering • Machine Learning • Data Science
+Software Engineering Student • Software Engineering • Machine Learning • Data Science
 </h3>
 
 ---
